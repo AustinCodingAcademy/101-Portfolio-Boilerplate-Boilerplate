@@ -9,7 +9,7 @@ To practice correcting merge conflicts we're going to work in pairs, create and 
 ### Part 1: Cloning the code, Creating a new repo, & Pointing the code at the new remote repo
 
 1. Students pair up.
-1. One of the students, we'll call Student A, will clone (NO FORK) this [101-Portfolio-Boilerplate-Boilerplate repo](https://github.com/AustinCodingAcademy/101-Portfolio-Boilerplate-Boilerplate/settings) into a place you usually work in.
+1. One of the students, we'll call Student A, will clone (NO FORK) this [101-Portfolio-Boilerplate-Boilerplate repo](https://github.com/AustinCodingAcademy/101-Portfolio-Boilerplate-Boilerplate) into a place you usually work in.
 1. Now go to GitHub and create a **NEW** public repo **without** a README called: " MyName-PartnerName-Portfolio-MergePractice " where `myName` equals Partner A's name and `PartnerName` equals Partner B's name.
 
     > *WHY? - We're creating this new repo so that you can push this cloned code into it and have your own repo shared between you and not forked off of ACA's repo.*
@@ -47,7 +47,7 @@ To practice correcting merge conflicts we're going to work in pairs, create and 
 
 ### Part 3: Creating Animations & Transformations and Merging
 
-Now is the time you both get to work together & individually. Your task is to create transitions for the `li` element for "Contact Information", "About", and "Portfolio" to `scale` up in size(transform) when hovered on and to increase `font-size` when clicked on(Animations).
+Now is the time you both get to work together & individually. Your task is to create transitions for the `li` element for "Contact Information", "About", and "Portfolio" to `scale` up in size (transform) when hovered on and to increase `font-size` when clicked on (Animations).
 
   * `<li><a href="#contact-information">Contact Information</a></li>`
   * `<li><a href="#about-me">About Me</a></li>`
@@ -57,7 +57,7 @@ Now is the time you both get to work together & individually. Your task is to cr
 1. Work in your own branches.
 1. Use the new `landingPage-transforms.css` to add your CSS rules.
 1. When you've each satisfied the requirements `git status, add, commit, push`.
-1. Go GitHub and create a pull request for your branch to be pulled into `master`.
+1. Go to GitHub and create a pull request for your branch to be pulled into `master`.
 1. Ask your partner to review the code with you. (Use Google Meet, breakout room, or Live-share to see each other's screen.)
 1. Merge only one of the branches at a time.
 1. When you've merged the first go to the second pull request together and work through the conflicts TOGETHER.
